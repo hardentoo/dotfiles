@@ -1,0 +1,1 @@
+-npsl --dont-break-procedure-type --line-length150  --no-tabs  --no-comment-delimiters-on-blank-lines
