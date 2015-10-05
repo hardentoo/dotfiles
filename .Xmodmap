@@ -1,0 +1,3 @@
+add Mod4 = Super_L Super_R
+keysym  Super_L = Multi_key
+keysym  Super_R = Multi_key
