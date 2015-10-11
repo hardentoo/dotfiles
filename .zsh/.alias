@@ -1,0 +1,22 @@
+# Сommand alias
+alias ls='ls -F --color=auto'.
+alias ll='ls -lh'
+alias la='ls -A'
+alias li='ls -ial'
+alias lsd='ls -ld *(-/DN)'
+alias lsa='ls -ld .*'
+alias grep='grep --color=auto'.
+alias mv='nocorrect mv -i'
+alias cp='nocorrect cp -iR'
+alias rm='nocorrect rm -i'
+alias rmf='nocorrect rm -f'
+alias rmrf='nocorrect rm -fR'
+alias mkdir='nocorrect mkdir'
+alias h=history
+alias df='df -h'
+alias du='du -h'
+alias less='less -M'
+alias nano='nano -w'
+alias wget='wget -c'
+alias ps='ps -ef'
+alias edit='mcedit'
